@@ -1,4 +1,9 @@
 <?php
+/**
+ * Created by: Pablo Lucas Silva Santos
+ * https://github.com/pablolucas890
+ * 
+ */
 // 
 // Allowed origins to upload images
 $accepted_origins = array("http://localhost");
@@ -41,4 +46,3 @@ if(is_uploaded_file($temp['tmp_name'])){
     // Notify editor that the upload failed
     header("HTTP/1.1 500 Server Error");
 }
-?>

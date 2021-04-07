@@ -1,4 +1,9 @@
 <?php
+/**
+ * Created by: Pablo Lucas Silva Santos
+ * https://github.com/pablolucas890
+ * 
+ */
 	
 	$op1 = "localhost";
 	$op2 = "localhost:3308";
