@@ -1,4 +1,4 @@
-<img align="right" src="gif.gif" width="600">
+<img align="right" src="gif.gif" width="300">
 # tinyeditor
 
 # Repositório destinado ao estudo do editor de texto tiny editor
